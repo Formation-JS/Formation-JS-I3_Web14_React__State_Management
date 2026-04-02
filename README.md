@@ -48,3 +48,8 @@ Pour la démo, celui sera découpé en 3 composants :
 - DisplayCounter : Afficher la valeur du compteur
 - BtnIncrCounter : Bouton pour incrémenté et décrementé le compteur
 - BtnResetCounter : Bouton pour reset le compteur
+
+### Mise en place
+- Installer `Jotai` via `npm i jotai`
+- Créer des atoms
+- Utiliser l'atom via les hooks et ses méthodes
