@@ -10,6 +10,8 @@ function App() {
       <h1>Demo - State Management</h1>
       <DisplayCounter />
       <BtnIncrCounter />
+      <BtnIncrCounter step={3}/>
+      <BtnIncrCounter step={5}/>
       <BtnResetCounter />
     </>
   )
